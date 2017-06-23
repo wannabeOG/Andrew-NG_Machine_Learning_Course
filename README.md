@@ -6,13 +6,13 @@ The focus is on making the code as vectorized as possible. However I was not abl
 
 ### Contents 
 ---
-1. Ex1 - Linear Regression
-1. Ex2 - Logistic Regression
-1. Ex3 - Multi Class Classification
-1. Ex4 - Neural Networks
-1. Ex5 - Bias-Variance Tradeoff
-1. Ex6 - SVM's and Kernels
-1. Ex7 - K-means clustering algorithm and PCA
+* Ex1 - Linear Regression
+* Ex2 - Logistic Regression
+* Ex3 - Multi Class Classification
+* Ex4 - Neural Networks
+* Ex5 - Bias-Variance Tradeoff
+* Ex6 - SVM's and Kernels
+* Ex7 - K-means clustering algorithm and PCA
 
 
 
